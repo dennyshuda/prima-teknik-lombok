@@ -9,7 +9,7 @@ export function Services() {
           Kami menyediakan berbagai jenis unit mekanikal untuk beragam kebutuhan
         </p>
       </div>
-      <div className="flex justify-center gap-10 flex-wrap">
+      <div className="flex justify-center gap-10 flex-wrap mt-10">
         {genset.map((item) => {
           return (
             <>

@@ -7,7 +7,7 @@ export function Navbar() {
 
   return (
     <div className="py-3 fixed top-0 left-0 w-full bg-white z-[999] md:hover:text-[#101C45]">
-      <div className="container mx-auto px-5">
+      <div className="container mx-auto px-5 xl:px-28">
         <nav className="flex justify-between items-center">
           <div className="border-l-4 border-[#203271]">
             <a className="font-semibold ml-2 text-2xl text-[#101C45]" href="/">

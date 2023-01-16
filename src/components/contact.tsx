@@ -10,7 +10,7 @@ export function Contact() {
           Jika Anda mencari bantuan lebih lanjut, silahkan hubungi kami melalui
         </p>
       </div>
-      <div className="flex justify-center gap-5 my-5">
+      <div className="flex justify-center gap-5 my-5 md:flex-row flex-col items-center">
         <a
           className="flex gap-4 justify-center py-3 px-10 rounded-full max-w-[15rem] border-2 drop-shadow-xl border-green-500"
           href="https://api.whatsapp.com/send?phone=628175727799&text=Halo%20pak%20samsul%20saya%20berminat"
